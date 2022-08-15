@@ -21,13 +21,5 @@ window.Config = {
       text: '主页',
       url: 'https://btwoa.com/'
     },
-    {
-      text: '博客',
-      url: 'https://blog.btwoa.com/'
-    },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/imsyy/'
-    },
   ],
 };
