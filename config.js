@@ -21,5 +21,9 @@ window.Config = {
       text: '主页',
       url: 'https://btwoa.com/'
     },
+    {
+      text: '随机',
+      url: 'https://blog.btwoa.com/random'
+    },
   ],
 };
