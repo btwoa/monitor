@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: 'RANDOM',
-      url: 'https://blog.btwoa.com/random'
+      url: 'https://blog.btwoa.com/random.html'
     },
     {
       text: 'BTWOA',
